@@ -1,0 +1,7 @@
+name,class,start_order,critical
+Package Service,package,10,true
+Power Service,power,20,true
+Storage Service,storage,30,true
+Update Service,update,40,true
+Notification Service,notification,50,false
+Account Service,account,60,false

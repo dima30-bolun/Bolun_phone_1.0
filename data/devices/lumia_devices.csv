@@ -1,0 +1,27 @@
+model,soc,width,height,ram_mb
+Lumia 520,Snapdragon S4,480,800,512
+Lumia 525,Snapdragon S4,480,800,1024
+Lumia 530,Snapdragon 200,480,854,512
+Lumia 532,Snapdragon 200,480,800,1024
+Lumia 535,Snapdragon 200,540,960,1024
+Lumia 540,Snapdragon 200,720,1280,1024
+Lumia 550,Snapdragon 200,720,1280,1024
+Lumia 620,Snapdragon S4,480,800,512
+Lumia 625,Snapdragon S4,480,800,512
+Lumia 630,Snapdragon 400,480,854,512
+Lumia 635,Snapdragon 400,480,854,512
+Lumia 640,Snapdragon 400,720,1280,1024
+Lumia 640 XL,Snapdragon 400,720,1280,1024
+Lumia 650,Snapdragon 200,720,1280,1024
+Lumia 720,Snapdragon S4,480,800,512
+Lumia 730,Snapdragon 400,720,1280,1024
+Lumia 735,Snapdragon 400,720,1280,1024
+Lumia 820,Snapdragon S4,480,800,1024
+Lumia 920,Snapdragon S4,768,1280,1024
+Lumia 925,Snapdragon S4,768,1280,1024
+Lumia 930,Snapdragon 800,1080,1920,2048
+Lumia 1020,Snapdragon S4,768,1280,2048
+Lumia 1320,Snapdragon S4,720,1280,1024
+Lumia 1520,Snapdragon 800,1080,1920,2048
+Lumia 950,Snapdragon 808,1440,2560,3072
+Lumia 950 XL,Snapdragon 810,1440,2560,3072

@@ -1,0 +1,13 @@
+[package]
+name = "bolun-kernel-core"
+version = "0.1.0"
+description = "Architecture-neutral core types and policies for the Bolun Phone microkernel."
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[lib]
+path = "src/lib.rs"
+
+[lints]
+workspace = true
