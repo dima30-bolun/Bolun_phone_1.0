@@ -1,0 +1,7 @@
+/build/*
+!/build/cmake/
+!/build/cmake/*.cmake
+/target/
+/tools/experimental/rust/target/
+**/*.rs.bk
+.DS_Store

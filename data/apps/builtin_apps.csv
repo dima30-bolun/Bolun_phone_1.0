@@ -1,0 +1,6 @@
+app_id,name,language
+bolun.settings,Settings,C#
+bolun.calculator,Calculator,C#
+bolun.filemanager,File Manager,C#
+bolun.diagnostics,Diagnostics,C#
+bolun.terminal,Terminal,C++
